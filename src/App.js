@@ -4,7 +4,7 @@ import PageScrollTop from './components/PageScrollTop'
 
 // Pages import Here
 
-import Consulting from "./pages/Consulting";
+//import Consulting from "./pages/Consulting";
 
 // Elements import Here
 
